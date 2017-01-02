@@ -110,3 +110,8 @@ fixed width sidebar:
 3. https://benfrain.com/independent-scrolling-panels-body-scroll-using-just-css/
 
 4. https://www.sitepoint.com/css-position-sticky-introduction-polyfills/
+
+
+Changing links color
+
+http://www.echoecho.com/htmllinks02.htm
