@@ -115,3 +115,6 @@ fixed width sidebar:
 Changing links color
 
 http://www.echoecho.com/htmllinks02.htm
+
+Animation
+http://www.w3schools.com/css/css3_animations.asp
