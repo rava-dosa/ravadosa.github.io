@@ -118,3 +118,14 @@ http://www.echoecho.com/htmllinks02.htm
 
 Animation
 http://www.w3schools.com/css/css3_animations.asp
+
+Animation almost everything
+http://www.webdesignerdepot.com/2015/05/the-ultimate-guide-to-web-animation/
+http://www.creativebloq.com/3d/how-create-impressive-3d-graphics-css3-21410672
+http://bashooka.com/coding/css3-animation-tools/
+
+Psychology of color
+https://blog.kissmetrics.com/psychology-of-color-and-conversions/
+
+Script for checking visitor's speed.
+https://www.techwalla.com/articles/how-to-detect-connection-speed-with-javascript
